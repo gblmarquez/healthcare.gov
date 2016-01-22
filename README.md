@@ -2,8 +2,6 @@
 
 This project includes the source code and content for the healthcare.gov website. For more information, please visit https://www.healthcare.gov/developers
 
-## Local Installation Requirements
-
 - Linux, Unix, Windows or Mac OS X
 - [Ruby](http://www.ruby-lang.org/en/downloads/)
 - [RubyGems](http://rubygems.org/pages/download)
